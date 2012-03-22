@@ -73,6 +73,8 @@
 #include "OSD_Vars.h"
 #include "OSD_Func.h"
 
+#include "AP_Common.h"
+
 /* *************************************************/
 /* ***************** DEFINITIONS *******************/
 
